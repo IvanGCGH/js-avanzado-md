@@ -283,7 +283,7 @@ SOLUCIÓN:
     </header>
     <main>
         <section>
-            <h2>Esto es el segundo titulo</h2>
+            <h2>Esto es el segundo titulo</h2> <button id="cambiar">Cambiar</button>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste, maxime.</p>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis, culpa?</p>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, ullam!</p>
