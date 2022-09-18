@@ -4,7 +4,7 @@
 
 Async Javascript and XML
 
-XML -> es una forma de comunicación, organiza la información a partir de etiquetas no inventadas, por ejemplo:
+XML -> es una forma de comunicación, organiza la información a partir de etiquetas inventadas, por ejemplo:
 
 ```sh
 <factura>
