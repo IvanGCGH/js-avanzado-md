@@ -1,7 +1,5 @@
 # Javascript avanzado - Clase 04
 
-Falta hacer una validación del submit ya que los inputs que agregué se validan cuando yo entro y salgo, pero si yo no entro puedo hacer un submit del formulario tranquilamente. Lo que se puede hacer es chequear que todos los elementos tengan un valor y recién ahí enviar el formulario.
-
 ##  AJAX
 
 Async Javascript and XML
